@@ -59,7 +59,7 @@ body {
     animation-delay: 18s;
 }
 .cb-slideshow li:nth-child(5) span {
-    background-image: url(../img/bg/bg5.jpg);
+    background-image: url(http://cirugia-medicina-estetica.rcestetica.com/wp-content/uploads/2015/07/Cx-Cardiovascular1.jpg);
     -webkit-animation-delay: 24s;
     -moz-animation-delay: 24s;
     -o-animation-delay: 24s;
@@ -67,7 +67,7 @@ body {
     animation-delay: 24s;
 }
 .cb-slideshow li:nth-child(6) span {
-    background-image: url(../img/bg/bg6.jpg);
+    background-image: url(http://www.podologiaterrassa.com/images/seccions/cirugia.jpg);
     -webkit-animation-delay: 30s;
     -moz-animation-delay: 30s;
     -o-animation-delay: 30s;
